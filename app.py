@@ -44,7 +44,7 @@ st.markdown("""
             box-shadow: 0 8px 16px rgba(0,0,0,0.2);
         }
         .cluster-info {
-            background-color: rgba(255, 255, 255, 0.95);
+            background-color: rgba(0,0,0,0.95);
             padding: 20px;
             border-radius: 10px;
             margin: 10px 0;
